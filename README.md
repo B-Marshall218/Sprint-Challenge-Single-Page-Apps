@@ -27,12 +27,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain benefit(s) using `client-side routing`?
 > Answer:
+
+It offers control over your site URL & content without necessarily having to wait for a server to respond with content. It is designed to mimic the appearance of traditional multi page websites. In other words, it takes up less time and data to run a website this way
+
 - [ ] What does AJAX stand for?
 > Answer:
+
+asynchronous javascript and xml
+
 - [ ] What are `controlled components` in React?
 > Answer:
+
+An input form element whose value is controlled by React in this way is called a “controlled component”
+
 - [ ] Name three tools/libraries for making AJAX requests.
 > Answer:
+
+1. JQuerry 2. fetch() 3. axios 
 
 ## Project Set Up
 
